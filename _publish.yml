@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 173bb4fc-a591-41a2-8a93-9ca67c3143cc
+      url: 'https://gauripsubash.quarto.pub/first-website'

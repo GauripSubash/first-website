@@ -2,8 +2,22 @@
 title: "About"
 ---
 
-About this site
+## About Me
+My name is **Gaurinath Subash** and I go to Green Level High School. I like to read and code during my free times. 
 
-```{r}
-1 + 1
-```
+## About the Project
+*Soccer*
+My project explores the relationship with soccer and something else
+
+### Goals
+- To create a graph
+  + Hard to get data
+- To create a map
+
+
+
+"This is data science"
+\
+~Preceptor
+
+["Kane’s Free Data Science Bootcamp”](https://bootcamp.davidkane.info)
