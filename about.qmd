@@ -7,6 +7,7 @@ My name is **Gaurinath Subash** and I go to Green Level High School. I like to r
 
 ## About the Project
 *Soccer*
+
 My project explores the relationship with soccer and something else
 
 ### Goals
